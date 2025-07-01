@@ -1,75 +1,85 @@
-<!--
-<!DO
-<html lang="es">
+<!DOCTYPE html>
+<html>
 <head>
-    <meta charset="UTF-8">
-    <title>Seto Diario - Miguel</title>
-    <link rel="stylesheet" href="../css/style.css">
-    <style>
-        body { font-family: sans-serif; padding: 20px; background: #f0f0f0; }
-        .card { background: white; padding: 20px; border-radius: 12px; margin-bottom: 20px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); }
-        button { padding: 10px 20px; border: none; background: #227733; color: white; border-radius: 6px; cursor: pointer; }
-        #logs { white-space: pre-wrap; background: #eee; padding: 10px; border-radius: 8px; }
-    </style>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+<title>primer paso</title>
 </head>
-<body>
-    <h1>Seguimiento Diario – Miguel</h1>
-
-    <div class="card">
-        <h2>📍 Hora de acceso</h2>
-        <p id="hora"></p>
-    </div>
-
-    <div class="card">
-        <h2>🚶 Acelerómetro (detectar movimiento)</h2>
-        <button onclick="iniciarAcelerometro()">Iniciar</button>
-        <div id="acelerometro">Esperando lectura...</div>
-    </div>
-
-    <div class="card">
-        <h2>🧠 Registro emocional diario</h2>
-        <textarea id="estadoEmocional" rows="5" style="width:100%"></textarea><br><br>
-        <button onclick="guardarEmocional()">Guardar</button>
-        <p><strong>Último registro:</strong></p>
-        <div id="logs"></div>
-    </div>
-
-    <div class="card">
-    	<h2><a href="https://miguelangelkatofull.github.io/sitio_miguel_sensores/">Regresar Principal</h2
-    </div>
-
-    <script>
-        document.getElementById("hora").textContent = new Date().toLocaleString();
-
-        function iniciarAcelerometro() {
-            if (window.DeviceMotionEvent) {
-                window.addEventListener("devicemotion", (event) => {
-                    const x = event.acceleration.x?.toFixed(2);
-                    const y = event.acceleration.y?.toFixed(2);
-                    const z = event.acceleration.z?.toFixed(2);
-                    document.getElementById("acelerometro").textContent = `Movimiento detectado: x=${x}, y=${y}, z=${z}`;
-                });
-            } else {
-                document.getElementById("acelerometro").textContent = "Tu navegador no soporta esta función.";
-            }
-        }
-
-        function guardarEmocional() {
-            const entrada = document.getElementById("estadoEmocional").value;
-            const fecha = new Date().toLocaleString();
-            const registro = `${fecha} - ${entrada}
-`;
-            const existentes = localStorage.getItem("bitacora") || "";
-            localStorage.setItem("bitacora", registro + existentes);
-            mostrarLogs();
-        }
-
-        function mostrarLogs() {
-            const logs = localStorage.getItem("bitacora") || "Sin registros aún.";
-            document.getElementById("logs").textContent = logs;
-        }
-
-        mostrarLogs();
-    </script>
+<br>estar limpio
+<br>
+</body>
+</html>
+mplir 
+<br>
+</body>
+</html>
+rgin:3px;
+}
+</style><body>
+<div># Desintoxicaci&#243;n del Cristal &#8211; Lo que Mi Familia Debe Saber<br>
+<br>
+**Miguel &#193;ngel Ruiz Ram&#237;rez**&nbsp; <br>
+**Quecholac, Puebla &#8211; Junio 2025**<br>
+<br>
+---<br>
+<br>
+ &#191;Por qu&#233; les escribo?<br>
+<br>
+Porque he decidido enfrentar un proceso de **desintoxicaci&#243;n por cuenta propia del cristal**, y necesito que mi familia entienda que **esto no es un capricho, ni un &#8220;vicio&#8221;**, sino una **consecuencia de situaciones emocionales profundas no resueltas**.&nbsp; <br>
+Este documento no busca dar l&#225;stima, sino **dar claridad y pedir comprensi&#243;n.**<br>
+<br>
+---<br>
+ &#191;Qu&#233; es lo que realmente pasa en el cuerpo y mente?<br>
+<br>
+El **cristal (metanfetamina)** es una droga sint&#233;tica muy adictiva que **act&#250;a sobre el sistema nervioso**, generando una sensaci&#243;n de energ&#237;a, euforia y confianza... pero con un alto costo.<br>
+<br>
+Cuando alguien **la deja por completo**, el cuerpo entra en un **proceso de abstinencia**. Esto es real, no psicol&#243;gico. Es lo que me est&#225; pasando cada ves que lo vuelvo a intentar y nadie me tolera. Pero para ser funcional recaigo el problema es que me da&#241;o mas. Y cuando intento no consumir quedo mal en el trabajo se vuelve un ciclo que arruina todo. Y que me se&#241;alen como irresponsable era mi miedo. Ya perdi a mi pareja y no me di cuenta cuando.<br>
+<br>
+---<br>
+<br>
+##&nbsp; S&#237;ntomas de abstinencia del cristal (primera a cuarta semana)<br>
+<br>
+<br>
+| D&#237;as 1 a 3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Dolor de cabeza, sue&#241;o excesivo, fatiga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Ansiedad, tristeza, ganas de llorar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |<br>
+| D&#237;as 4 a 7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Temblores, falta de apetito, sudoraci&#243;n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Irritabilidad, desesperaci&#243;n, pensamientos oscuros&nbsp;&nbsp; |<br>
+| Semana 2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Mareos, insomnio, tensi&#243;n muscular&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Sensaci&#243;n de vac&#237;o, miedo, agresividad involuntaria&nbsp; |<br>
+| Semana 3 en adelante<br>
+ | <br>
+Dolor de huesos, pesadillas, sudores nocturnos | Lucha emocional constante, desesperanza ocasional&nbsp;&nbsp;&nbsp;&nbsp; |<br>
+<br>
+&gt; Esto no significa que sea peligroso, pero s&#237; requiere apoyo emocional. Nadie lo supera solo.<br>
+<br>
+---<br>
+Qu&#233; necesito de mi familia?<br>
+<br>
+- Que no me digan &#8220;&#233;chale ganas&#8221;.&nbsp; <br>
+&nbsp; &#8594; Ya lo estoy haciendo.<br>
+<br>
+- Que no me juzguen si estoy deca&#237;do o irritable.&nbsp; <br>
+&nbsp; &#8594; Es parte del proceso.<br>
+<br>
+- Que entiendan que este esfuerzo me cuesta TODO.&nbsp; <br>
+&nbsp; &#8594; Y lo hago por m&#237;&#8230; y por mi hijo.<br>
+<br>
+- Que si me ven mal, me recuerden con amor qui&#233;n soy.&nbsp; <br>
+&nbsp; &#8594; A veces lo olvido.<br>
+<br>
+No necesito internarme, necesito apoyo<br>
+<br>
+No tengo los recursos para ir a una cl&#237;nica.&nbsp; <br>
+Pero **tengo la fuerza para salir adelante si s&#233; que no estoy solo**.&nbsp; <br>
+<br>
+Lo que quiero lograr<br>
+<br>
+- Volver a dormir sin miedo.&nbsp; <br>
+- Ser funcional como padre.&nbsp; <br>
+- Trabajar con dignidad.&nbsp; <br>
+- No volver a caer, porque<br>
+ya s&#233; lo quebse siente volver a caer y ahora perder mas.<br>
+- no quiero perder todo<br>
+<br>
+</body>
+</html>
+tar. Gracias por entender.**</div>
 </body>
 </html>
