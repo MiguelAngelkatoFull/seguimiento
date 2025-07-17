@@ -1,4 +1,4 @@
-﻿# Plan de 90 días para mantenerme limpio despues del anexo(post-anexo)
+﻿# Plan RAPIDO CUANDO SALGA DE ANEXO mi seguimiento este es para mi y mantenerme limpio despues del anexo(post-anexo)
 
 ## Objetivo
 Estabilizar emocional y económicamente mi vida después de mi internamiento, fortaleciendo vínculos familiares y personales.
