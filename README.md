@@ -3,7 +3,7 @@
 # 🧠 Bitácora de Proceso de Reinserción Personal y Profesional
 **Nombre:** Miguel Ángel Ruiz Ramírez  
 **Inicio del proceso con IA:** 2025-05-19  
-**Documento generado por:** ChatGPT (Asistente IA)  
+**Documento generado por:** (Asistente IA)  
 
 ---
 
@@ -60,7 +60,6 @@ El proceso que ha llevado Miguel hasta aquí ha sido voluntario, con recaídas h
 ## 👥 Personas Clave (Mencionadas en el proceso)
 - Psicólogo: Lic. Eduardo  
 - Apoyo familiar: Primo David, Madrina Chayo  
-- Apoyo laboral: amigo “Pekas”  
 
 ## 📂 Documentación Recomendada
 - Bitácoras técnicas por fecha  
