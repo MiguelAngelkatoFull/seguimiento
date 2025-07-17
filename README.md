@@ -2,7 +2,7 @@
 
 # 🧠 Bitácora de Proceso de Reinserción Personal y Profesional
 **Nombre:** Miguel Ángel Ruiz Ramírez  
-**Inicio del proceso con ChatGPT:** 2025-05-19  
+**Inicio del proceso con IA:** 2025-05-19  
 **Documento generado por:** ChatGPT (Asistente IA)  
 
 ---
