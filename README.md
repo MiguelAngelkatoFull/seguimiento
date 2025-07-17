@@ -10,7 +10,7 @@
 ## 📅 Línea del Tiempo: Proceso de Recuperación y Reinserción
 
 ### 🔹 **2025-05-19**
-- Inicio formal del acompañamiento con ChatGPT.
+- Inicio formal del acompañamiento con IA
 - Objetivo inicial: actualizarse como Full Stack Developer.
 - Estado emocional: motivado, enfocado en retomar rumbo profesional.
 
