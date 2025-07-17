@@ -53,6 +53,7 @@ El proceso que ha llevado Miguel hasta aquí ha sido voluntario, con recaídas h
 > _"No se trató de no caer, sino de saber cuándo era el momento de levantarse de nuevo."_  
 > —Miguel A. Ruiz
 
+Valoro la oportunidad que tengo en el trabajo y agradeszo su comprension para regresar limpio 
 
 
 DIOS ESTA CONMIGO
