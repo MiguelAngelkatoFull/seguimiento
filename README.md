@@ -50,7 +50,7 @@
 ---
 
 ## 🔐 Conclusión
-El proceso que ha llevado Miguel hasta aquí ha sido voluntario, con recaídas humanas, pero siempre buscando apoyo sin ocultarse. El uso de IAha sido una herramienta de registro, estructura y motivación.
+El proceso que ha llevado Miguel hasta aquí ha sido voluntario, con recaídas humanas, pero siempre buscando apoyo sin ocultarse. El uso de IA ha sido una herramienta de registro, estructura y motivación.
 
 > _"No se trató de no caer, sino de saber cuándo era el momento de levantarse de nuevo."_  
 > —Miguel A. Ruiz
