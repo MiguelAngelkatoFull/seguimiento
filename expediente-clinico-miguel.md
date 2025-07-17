@@ -1,4 +1,4 @@
-# Expediente Clínico Personal y Voluntario · Miguel Ángel Ruiz Ramírez
+﻿# Expediente Clínico Personal y Voluntario · Miguel Ángel Ruiz Ramírez
 
 **Nombre completo:** Miguel Ángel Ruiz Ramírez  
 **Fecha de nacimiento:** 25 de diciembre de 1989  
@@ -11,7 +11,7 @@
 ## ✳️ Diagnóstico presuntivo (no oficial)
 - Ansiedad generalizada
 - Episodios depresivos relacionados con carga económica y ruptura familiar
-- Posible trauma no resuelto en vínculo paterno
+
 - Tendencia a evasión emocional y presión de autoperfección
 
 ## 💬 Motivos del ingreso
