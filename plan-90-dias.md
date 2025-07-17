@@ -1,4 +1,4 @@
-# Plan de 90 días para mantenerme limpio (post-anexo)
+﻿# Plan de 90 días para mantenerme limpio despues del anexo(post-anexo)
 
 ## Objetivo
 Estabilizar emocional y económicamente mi vida después de mi internamiento, fortaleciendo vínculos familiares y personales.
@@ -21,5 +21,4 @@ Estabilizar emocional y económicamente mi vida después de mi internamiento, fo
 
 ## Revisión mensual
 - 📌 Revisión de avances emocionales
-- 💰 Aportación económica a mi hijo
-- 📘 Seguimiento del curso Full Stack
+ con Lic. Eduardo continuar con mis terapias
